@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Getting used to it!"
 ---
-Your text
-Use the left arrow to go back!
+Never Give Up
